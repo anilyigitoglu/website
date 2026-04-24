@@ -17,6 +17,15 @@
     "patreon": "https://yigi.duckdns.org/"
   },
   "colors": {
+      "light": {
+      "background": "#272822",
+      "foreground": "#F8F8F2",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
+    },
     "dark": {
       "background": "#272822",
       "foreground": "#F8F8F2",
