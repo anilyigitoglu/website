@@ -8,13 +8,13 @@
     "linkedin": "linkedin"
   },
   "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "ps1_hostname": "yigi",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://yigi.duckdns.org/",
+  "resume_url": "https://yigi.duckdns.org/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://yigi.duckdns.org/",
+    "patreon": "https://yigi.duckdns.org/"
   },
   "colors": {
     "light": {
